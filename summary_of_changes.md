@@ -1,6 +1,6 @@
 # Summary of Changes — Data Cleaning
 
-**Dataset:** Sales Data (raw, synthetic — messy on purpose to practice cleaning)
+**Dataset:** Sales Data (raw, synthetic)
 **Rows before cleaning:** 128
 **Rows after cleaning:** 120
 
